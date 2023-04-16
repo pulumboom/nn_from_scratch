@@ -1,0 +1,9 @@
+[submodule "eigen"]
+	path = lib/eigen
+	url = https://gitlab.com/libeigen/eigen
+[submodule "lib/EigenRand"]
+	path = lib/EigenRand
+	url = https://github.com/bab2min/EigenRand
+[submodule "lib/eigen"]
+	path = lib/eigen
+	url = https://gitlab.com/libeigen/eigen
